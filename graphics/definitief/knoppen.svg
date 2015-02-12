@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1317.789px" height="1163.247px" viewBox="0 0 1317.789 1163.247" enable-background="new 0 0 1317.789 1163.247"
+	 xml:space="preserve">
+<font horiz-adv-x="2048">
+<!-- Arial is a trademark of The Monotype Corporation. -->
+<!-- Copyright: Copyright 2014 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="ArialMT" units-per-em="2048" underline-position="-217" underline-thickness="150"/>
+<missing-glyph horiz-adv-x="1536" d="M256,0l0,1280l1024,0l0,-1280M288,32l960,0l0,1216l-960,0z"/>
+<glyph unicode=" " horiz-adv-x="569"/>
+<glyph unicode="A" horiz-adv-x="1366" d="M-3,0l563,1466l209,0l600,-1466l-221,0l-171,444l-613,0l-161,-444M420,602l497,0l-153,406C717,1131 683,1233 660,1312C641,1218 615,1125 581,1032z"/>
+<glyph unicode="B" horiz-adv-x="1366" d="M150,0l0,1466l550,0C812,1466 902,1451 970,1422C1037,1392 1090,1346 1129,1285C1167,1223 1186,1158 1186,1091C1186,1028 1169,969 1135,914C1101,859 1050,814 981,780C1070,754 1138,710 1186,647C1233,584 1257,510 1257,425C1257,356 1243,293 1214,234C1185,175 1149,129 1106,97C1063,65 1010,41 946,25C881,8 802,0 709,0M344,850l317,0C747,850 809,856 846,867C895,882 933,906 958,940C983,974 995,1017 995,1068C995,1117 983,1160 960,1197C937,1234 903,1259 860,1273C817,1286 742,1293 637,1293l-293,0M344,173l365,0C772,173 816,175 841,180C886,188 923,201 953,220C983,239 1008,266 1027,302C1046,337 1056,378 1056,425C1056,480 1042,527 1014,568C986,608 947,636 898,653C848,669 776,677 683,677l-339,0z"/>
+<glyph unicode="C" horiz-adv-x="1479" d="M1204,514l194,-49C1357,306 1284,184 1179,101C1073,17 944,-25 791,-25C633,-25 505,7 406,72C307,136 231,229 180,351C128,473 102,604 102,744C102,897 131,1030 190,1144C248,1257 331,1344 439,1403C546,1462 665,1491 794,1491C941,1491 1064,1454 1164,1379C1264,1304 1334,1199 1373,1064l-191,-45C1148,1126 1099,1203 1034,1252C969,1301 888,1325 790,1325C677,1325 583,1298 508,1244C432,1190 379,1118 348,1027C317,936 302,842 302,745C302,620 320,512 357,419C393,326 449,256 526,210C603,164 686,141 775,141C884,141 976,172 1051,235C1126,298 1177,391 1204,514z"/>
+<glyph unicode="D" horiz-adv-x="1479" d="M158,0l0,1466l505,0C777,1466 864,1459 924,1445C1008,1426 1080,1391 1139,1340C1216,1275 1274,1191 1313,1090C1351,988 1370,872 1370,741C1370,630 1357,531 1331,445C1305,359 1272,288 1231,232C1190,175 1146,131 1098,99C1049,66 991,42 923,25C854,8 776,0 687,0M352,173l313,0C762,173 838,182 893,200C948,218 991,243 1024,276C1070,322 1106,384 1132,462C1157,539 1170,633 1170,744C1170,897 1145,1015 1095,1098C1044,1180 983,1235 911,1263C859,1283 775,1293 660,1293l-308,0z"/>
+<glyph unicode="E" horiz-adv-x="1366" d="M162,0l0,1466l1060,0l0,-173l-866,0l0,-449l811,0l0,-172l-811,0l0,-499l900,0l0,-173z"/>
+<glyph unicode="I" horiz-adv-x="569" d="M191,0l0,1466l194,0l0,-1466z"/>
+<glyph unicode="L" horiz-adv-x="1139" d="M150,0l0,1466l194,0l0,-1293l722,0l0,-173z"/>
+<glyph unicode="N" horiz-adv-x="1479" d="M156,0l0,1466l199,0l770,-1151l0,1151l186,0l0,-1466l-199,0l-770,1152l0,-1152z"/>
+<glyph unicode="O" horiz-adv-x="1593" d="M99,714C99,957 164,1148 295,1286C426,1423 594,1492 801,1492C936,1492 1058,1460 1167,1395C1276,1330 1359,1240 1416,1125C1473,1009 1501,878 1501,731C1501,582 1471,449 1411,332C1351,215 1266,126 1156,66C1046,5 927,-25 800,-25C662,-25 539,8 430,75C321,142 239,233 183,348C127,463 99,585 99,714M299,711C299,534 347,395 442,294C537,192 656,141 799,141C945,141 1065,192 1160,295C1254,398 1301,543 1301,732C1301,851 1281,956 1241,1045C1200,1134 1141,1203 1064,1252C986,1301 899,1325 802,1325C665,1325 547,1278 448,1184C349,1089 299,932 299,711z"/>
+<glyph unicode="P" horiz-adv-x="1366" d="M158,0l0,1466l553,0C808,1466 883,1461 934,1452C1006,1440 1066,1417 1115,1384C1164,1350 1203,1303 1233,1242C1262,1181 1277,1115 1277,1042C1277,917 1237,812 1158,726C1079,639 935,596 728,596l-376,0l0,-596M352,769l379,0C856,769 945,792 998,839C1051,886 1077,951 1077,1036C1077,1097 1062,1150 1031,1194C1000,1237 959,1266 908,1280C875,1289 815,1293 727,1293l-375,0z"/>
+<glyph unicode="R" horiz-adv-x="1479" d="M161,0l0,1466l650,0C942,1466 1041,1453 1109,1427C1177,1400 1231,1354 1272,1287C1313,1220 1333,1147 1333,1066C1333,962 1299,874 1232,803C1165,732 1061,686 920,667C971,642 1010,618 1037,594C1094,542 1147,477 1198,399l255,-399l-244,0l-194,305C958,393 912,460 875,507C838,554 806,586 777,605C748,624 718,637 688,644C666,649 630,651 580,651l-225,0l0,-651M355,819l417,0C861,819 930,828 980,847C1030,865 1068,894 1094,935C1120,975 1133,1019 1133,1066C1133,1135 1108,1192 1058,1237C1007,1282 928,1304 819,1304l-464,0z"/>
+<glyph unicode="S" horiz-adv-x="1366" d="M92,471l183,16C284,414 304,354 336,307C367,260 416,222 483,193C550,164 625,149 708,149C782,149 847,160 904,182C961,204 1003,234 1031,273C1058,311 1072,353 1072,398C1072,444 1059,484 1032,519C1005,553 961,582 900,605C861,620 774,644 639,677C504,709 410,739 356,768C286,805 234,850 200,905C165,959 148,1020 148,1087C148,1161 169,1230 211,1295C253,1359 314,1408 395,1441C476,1474 565,1491 664,1491C773,1491 869,1474 952,1439C1035,1404 1098,1352 1143,1284C1188,1216 1212,1139 1215,1053l-186,-14C1019,1132 985,1202 928,1249C870,1296 785,1320 672,1320C555,1320 469,1299 416,1256C362,1213 335,1161 335,1100C335,1047 354,1004 392,970C429,936 527,901 685,866C842,830 950,799 1009,772C1094,733 1157,683 1198,623C1239,562 1259,493 1259,414C1259,336 1237,263 1192,194C1147,125 1083,71 1000,33C916,-6 822,-25 717,-25C584,-25 473,-6 384,33C294,72 224,130 173,208C122,285 95,373 92,471z"/>
+<glyph unicode="T" horiz-adv-x="1251" d="M531,0l0,1293l-483,0l0,173l1162,0l0,-173l-485,0l0,-1293z"/>
+<glyph unicode="U" horiz-adv-x="1479" d="M1120,1466l194,0l0,-847C1314,472 1297,355 1264,268C1231,181 1171,111 1084,57C997,2 882,-25 741,-25C604,-25 491,-1 404,46C317,93 254,162 217,252C180,341 161,464 161,619l0,847l194,0l0,-846C355,493 367,399 391,339C414,278 455,232 513,199C570,166 641,150 724,150C867,150 968,182 1029,247C1090,312 1120,436 1120,620z"/>
+</font>
+
+	<font horiz-adv-x="2048">
+<!-- Arial is a trademark of The Monotype Corporation. -->
+<!-- Copyright: Copyright 2014 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="Arial-Black" units-per-em="2048" underline-position="-256" underline-thickness="123"/>
+<missing-glyph horiz-adv-x="1536" d="M0,0l0,1280l1024,0l0,-1280M32,32l960,0l0,1216l-960,0z"/>
+<glyph unicode=" " horiz-adv-x="683"/>
+<glyph unicode="A" horiz-adv-x="1593" d="M1052,242l-516,0l-71,-242l-463,0l551,1466l494,0l551,-1466l-474,0M957,559l-162,527l-161,-527z"/>
+<glyph unicode="B" horiz-adv-x="1593" d="M151,1466l848,0C1140,1466 1249,1431 1325,1361C1400,1291 1438,1204 1438,1101C1438,1014 1411,940 1357,878C1321,837 1268,804 1199,780C1304,755 1382,711 1432,650C1481,588 1506,510 1506,417C1506,341 1488,273 1453,212C1418,151 1369,103 1308,68C1270,46 1213,30 1136,20C1034,7 966,0 933,0l-782,0M608,891l197,0C876,891 925,903 953,928C980,952 994,987 994,1033C994,1076 980,1109 953,1133C925,1157 877,1169 808,1169l-200,0M608,315l231,0C917,315 972,329 1004,357C1036,384 1052,421 1052,468C1052,511 1036,546 1005,573C973,599 917,612 838,612l-230,0z"/>
+<glyph unicode="C" horiz-adv-x="1593" d="M1126,599l397,-120C1496,368 1454,275 1397,200C1340,125 1269,69 1184,31C1099,-7 990,-26 859,-26C700,-26 570,-3 469,44C368,90 280,171 207,288C134,405 97,554 97,736C97,979 162,1165 291,1296C420,1426 602,1491 838,1491C1023,1491 1168,1454 1274,1379C1379,1304 1458,1190 1509,1035l-400,-89C1095,991 1080,1023 1065,1044C1040,1079 1009,1105 972,1124C935,1143 894,1152 849,1152C746,1152 668,1111 613,1028C572,967 551,870 551,739C551,576 576,465 625,405C674,344 744,314 833,314C920,314 985,338 1030,387C1074,436 1106,506 1126,599z"/>
+<glyph unicode="D" horiz-adv-x="1593" d="M156,1466l673,0C962,1466 1069,1448 1151,1412C1232,1376 1300,1324 1353,1257C1406,1190 1445,1111 1469,1022C1493,933 1505,838 1505,738C1505,581 1487,460 1452,374C1416,287 1366,215 1303,157C1240,98 1172,59 1099,40C1000,13 910,0 829,0l-673,0M609,1134l0,-801l111,0C815,333 882,344 922,365C962,386 993,422 1016,475C1039,527 1050,612 1050,729C1050,884 1025,991 974,1048C923,1105 839,1134 722,1134z"/>
+<glyph unicode="E" horiz-adv-x="1479" d="M149,1466l1214,0l0,-313l-760,0l0,-233l705,0l0,-299l-705,0l0,-289l782,0l0,-332l-1236,0z"/>
+<glyph unicode="I" horiz-adv-x="797" d="M168,1466l454,0l0,-1466l-454,0z"/>
+<glyph unicode="L" horiz-adv-x="1366" d="M150,1466l453,0l0,-1105l707,0l0,-361l-1160,0z"/>
+<glyph unicode="N" horiz-adv-x="1706" d="M153,1466l423,0l552,-811l0,811l427,0l0,-1466l-427,0l-549,805l0,-805l-426,0z"/>
+<glyph unicode="O" horiz-adv-x="1706" d="M93,732C93,971 160,1158 293,1291C426,1424 612,1491 850,1491C1094,1491 1282,1426 1414,1295C1546,1164 1612,980 1612,744C1612,573 1583,432 1526,323C1468,213 1385,128 1276,67C1167,6 1031,-25 868,-25C703,-25 566,1 458,54C349,107 261,190 194,304C127,418 93,561 93,732M546,730C546,582 574,476 629,411C684,346 758,314 853,314C950,314 1026,346 1079,409C1132,472 1159,586 1159,750C1159,888 1131,989 1076,1053C1020,1116 944,1148 849,1148C758,1148 684,1116 629,1051C574,986 546,879 546,730z"/>
+<glyph unicode="P" horiz-adv-x="1479" d="M148,1466l753,0C1065,1466 1188,1427 1270,1349C1351,1271 1392,1160 1392,1016C1392,868 1348,752 1259,669C1170,586 1034,544 851,544l-248,0l0,-544l-455,0M603,841l111,0C801,841 863,856 898,887C933,917 951,956 951,1003C951,1049 936,1088 905,1120C874,1152 817,1168 732,1168l-129,0z"/>
+<glyph unicode="R" horiz-adv-x="1593" d="M156,0l0,1466l755,0C1051,1466 1158,1454 1232,1430C1306,1406 1366,1362 1411,1297C1456,1232 1479,1152 1479,1059C1479,978 1462,908 1427,849C1392,790 1345,742 1284,705C1245,682 1192,662 1125,647C1179,629 1218,611 1243,593C1260,581 1284,555 1316,516C1347,477 1368,446 1379,425l219,-425l-512,0l-242,448C813,506 786,544 762,561C729,584 692,595 651,595l-40,0l0,-595M611,872l191,0C823,872 863,879 922,892C952,898 977,913 996,938C1015,963 1024,991 1024,1023C1024,1070 1009,1107 979,1132C949,1157 893,1170 810,1170l-199,0z"/>
+<glyph unicode="S" horiz-adv-x="1479" d="M71,485l431,27C511,442 530,389 559,352C606,293 672,263 759,263C824,263 874,278 909,309C944,339 961,374 961,414C961,452 944,486 911,516C878,546 800,574 679,601C480,646 339,705 254,779C169,853 126,947 126,1062C126,1137 148,1209 192,1276C235,1343 301,1395 389,1434C476,1472 596,1491 749,1491C936,1491 1079,1456 1178,1387C1276,1317 1334,1206 1353,1054l-427,-25C915,1095 891,1143 855,1173C818,1203 768,1218 704,1218C651,1218 612,1207 585,1185C558,1162 545,1135 545,1103C545,1080 556,1059 578,1040C599,1021 650,1003 730,986C928,943 1070,900 1156,857C1241,813 1304,759 1343,694C1382,629 1401,557 1401,477C1401,383 1375,296 1323,217C1271,138 1198,78 1105,37C1012,-4 894,-25 752,-25C503,-25 330,23 234,119C138,215 84,337 71,485z"/>
+<glyph unicode="T" horiz-adv-x="1479" d="M47,1466l1377,0l0,-362l-462,0l0,-1104l-453,0l0,1104l-462,0z"/>
+<glyph unicode="U" horiz-adv-x="1706" d="M1104,1466l452,0l0,-874C1556,505 1543,424 1516,347C1489,270 1446,202 1389,145C1331,87 1270,46 1207,23C1119,-10 1013,-26 890,-26C819,-26 741,-21 657,-11C572,-1 502,19 445,49C388,78 337,120 290,175C243,230 210,286 193,344C165,437 151,520 151,592l0,874l452,0l0,-895C603,491 625,429 670,384C714,339 775,316 854,316C932,316 993,338 1038,383C1082,427 1104,490 1104,571z"/>
+</font>
+
+	<g id="BLOCK_x5F_RECORD">
+	<g id="HATCH">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FF0000" points="0.066,0.06 1317.714,0.06 1317.714,0.06 
+			1317.714,110.704 1317.714,110.704 0.066,110.704 0.066,110.704 0.066,0.06 		"/>
+	</g>
+	<g id="HATCH_1_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FF0000" points="0.066,1052.539 1317.714,1052.539 1317.714,1052.539 
+			1317.714,1163.185 1317.714,1163.185 0.066,1163.185 0.066,1163.185 0.066,1052.539 		"/>
+	</g>
+	<g id="HATCH_2_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FF0000" points="0.066,941.895 1317.714,941.895 1317.714,941.895 
+			1317.714,1052.539 1317.714,1052.539 0.066,1052.539 0.066,1052.539 0.066,941.895 		"/>
+	</g>
+	<g id="HATCH_3_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FF0000" points="0.066,817.081 1317.714,817.081 1317.714,817.081 
+			1317.714,927.726 1317.714,927.726 0.066,927.726 0.066,927.726 0.066,817.081 		"/>
+	</g>
+	<g id="HATCH_4_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FF0000" points="0.066,706.436 1317.714,706.436 1317.714,706.436 
+			1317.714,817.081 1317.714,817.081 0.066,817.081 0.066,817.081 0.066,706.436 		"/>
+	</g>
+	<g id="HATCH_5_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FF0000" points="0.066,581.622 1317.714,581.622 1317.714,581.622 
+			1317.714,692.267 1317.714,692.267 0.066,692.267 0.066,692.267 0.066,581.622 		"/>
+	</g>
+	<g id="HATCH_6_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FF0000" points="0.066,470.977 1317.714,470.977 1317.714,470.977 
+			1317.714,581.622 1317.714,581.622 0.066,581.622 0.066,581.622 0.066,470.977 		"/>
+	</g>
+	<g id="HATCH_7_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FF0000" points="0.066,346.163 1317.714,346.163 1317.714,346.163 
+			1317.714,456.808 1317.714,456.808 0.066,456.808 0.066,456.808 0.066,346.163 		"/>
+	</g>
+	<g id="HATCH_8_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FF0000" points="0.066,235.519 1317.714,235.519 1317.714,235.519 
+			1317.714,346.163 1317.714,346.163 0.066,346.163 0.066,346.163 0.066,235.519 		"/>
+	</g>
+	<g id="HATCH_9_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FF0000" points="0.066,110.704 1317.714,110.704 1317.714,110.704 
+			1317.714,221.349 1317.714,221.349 0.066,221.349 0.066,221.349 0.066,110.704 		"/>
+	</g>
+	<g id="LWPOLYLINE">
+		<polyline fill="none" stroke="#FF0000" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			0.071,110.713 1317.717,110.713 1317.717,221.356 0.071,221.356 0.071,110.713 		"/>
+	</g>
+	<g id="LWPOLYLINE_1_">
+		<polyline fill="none" stroke="#FF0000" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			0.071,0.071 1317.717,0.071 1317.717,110.713 0.071,110.713 0.071,0.071 		"/>
+	</g>
+	<g id="LWPOLYLINE_2_">
+		<polyline fill="none" stroke="#FF0000" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			0.071,1052.532 1317.717,1052.532 1317.717,1163.176 0.071,1163.176 0.071,1052.532 		"/>
+	</g>
+	<g id="LWPOLYLINE_3_">
+		<polyline fill="none" stroke="#FF0000" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			0.071,941.89 1317.717,941.89 1317.717,1052.532 0.071,1052.532 0.071,941.89 		"/>
+	</g>
+	<g id="LWPOLYLINE_4_">
+		<polyline fill="none" stroke="#FF0000" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			0.071,346.168 1317.717,346.168 1317.717,456.811 0.071,456.811 0.071,346.168 		"/>
+	</g>
+	<g id="LWPOLYLINE_5_">
+		<polyline fill="none" stroke="#FF0000" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			0.071,235.525 1317.717,235.525 1317.717,346.168 0.071,346.168 0.071,235.525 		"/>
+	</g>
+	<g id="LWPOLYLINE_6_">
+		<polyline fill="none" stroke="#FF0000" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			0.071,581.623 1317.717,581.623 1317.717,692.266 0.071,692.266 0.071,581.623 		"/>
+	</g>
+	<g id="LWPOLYLINE_7_">
+		<polyline fill="none" stroke="#FF0000" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			0.071,470.98 1317.717,470.98 1317.717,581.623 0.071,581.623 0.071,470.98 		"/>
+	</g>
+	<g id="LWPOLYLINE_8_">
+		<polyline fill="none" stroke="#FF0000" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			0.071,817.078 1317.717,817.078 1317.717,927.721 0.071,927.721 0.071,817.078 		"/>
+	</g>
+	<g id="LWPOLYLINE_9_">
+		<polyline fill="none" stroke="#FF0000" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			0.071,706.436 1317.717,706.436 1317.717,817.078 0.071,817.078 0.071,706.436 		"/>
+	</g>
+	<g id="HATCH_10_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FEFEFE" points="14.236,1052.539 480.435,1052.539 480.435,1052.539 
+			383.96,1149.015 383.96,1149.015 14.236,1149.015 14.236,1149.015 14.236,1052.539 		"/>
+	</g>
+	<g id="HATCH_11_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FEFEFE" points="14.236,956.064 383.96,956.064 383.96,956.064 
+			480.435,1052.539 480.435,1052.539 14.236,1052.539 14.236,1052.539 14.236,956.064 		"/>
+	</g>
+	<g id="HATCH_12_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FEFEFE" points="508.774,1052.539 919.651,1052.539 919.651,1052.539 
+			823.176,1149.015 823.176,1149.015 412.299,1149.015 412.299,1149.015 508.774,1052.539 		"/>
+	</g>
+	<g id="HATCH_13_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#010101" points="851.515,1149.015 1303.544,1149.015 1303.544,1149.015 
+			1303.544,1052.539 1303.544,1052.539 947.99,1052.539 947.99,1052.539 851.515,1149.015 		"/>
+	</g>
+	<g id="HATCH_14_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#010101" points="851.515,956.064 1303.544,956.064 1303.544,956.064 
+			1303.544,1052.539 1303.544,1052.539 947.99,1052.539 947.99,1052.539 851.515,956.064 		"/>
+	</g>
+	<g id="HATCH_15_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FEFEFE" points="412.299,956.064 823.176,956.064 823.176,956.064 
+			919.651,1052.539 919.651,1052.539 508.774,1052.539 508.774,1052.539 412.299,956.064 		"/>
+	</g>
+	<g id="HATCH_16_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FEFEFE" points="508.774,110.704 919.651,110.704 919.651,110.704 
+			823.176,207.179 823.176,207.179 412.299,207.179 412.299,207.179 508.774,110.704 		"/>
+	</g>
+	<g id="HATCH_17_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FEFEFE" points="851.515,207.179 1303.544,207.179 1303.544,207.179 
+			1303.544,110.704 1303.544,110.704 947.99,110.704 947.99,110.704 851.515,207.179 		"/>
+	</g>
+	<g id="HATCH_18_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FEFEFE" points="851.515,14.229 1303.544,14.229 1303.544,14.229 
+			1303.544,110.704 1303.544,110.704 947.99,110.704 947.99,110.704 851.515,14.229 		"/>
+	</g>
+	<g id="HATCH_19_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FEFEFE" points="412.299,14.229 823.176,14.229 823.176,14.229 
+			919.651,110.704 919.651,110.704 508.774,110.704 508.774,110.704 412.299,14.229 		"/>
+	</g>
+	<g id="HATCH_20_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#010101" points="14.236,110.704 480.435,110.704 480.435,110.704 
+			383.96,207.179 383.96,207.179 14.236,207.179 14.236,207.179 14.236,110.704 		"/>
+	</g>
+	<g id="HATCH_21_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FEFEFE" points="14.236,14.229 383.96,14.229 383.96,14.229 
+			480.435,110.704 480.435,110.704 14.236,110.704 14.236,110.704 14.236,14.229 		"/>
+	</g>
+	<g id="HATCH_22_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FEFEFE" points="508.774,346.163 919.651,346.163 919.651,346.163 
+			823.176,442.638 823.176,442.638 412.299,442.638 412.299,442.638 508.774,346.163 		"/>
+	</g>
+	<g id="HATCH_23_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FEFEFE" points="851.515,442.638 1303.544,442.638 1303.544,442.638 
+			1303.544,346.163 1303.544,346.163 947.99,346.163 947.99,346.163 851.515,442.638 		"/>
+	</g>
+	<g id="HATCH_24_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FEFEFE" points="851.515,249.688 1303.544,249.688 1303.544,249.688 
+			1303.544,346.163 1303.544,346.163 947.99,346.163 947.99,346.163 851.515,249.688 		"/>
+	</g>
+	<g id="HATCH_25_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FEFEFE" points="412.299,249.688 823.176,249.688 823.176,249.688 
+			919.651,346.163 919.651,346.163 508.774,346.163 508.774,346.163 412.299,249.688 		"/>
+	</g>
+	<g id="HATCH_26_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#010101" points="14.236,346.163 480.435,346.163 480.435,346.163 
+			383.96,442.638 383.96,442.638 14.236,442.638 14.236,442.638 14.236,346.163 		"/>
+	</g>
+	<g id="HATCH_27_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#010101" points="14.236,249.688 383.96,249.688 383.96,249.688 
+			480.435,346.163 480.435,346.163 14.236,346.163 14.236,346.163 14.236,249.688 		"/>
+	</g>
+	<g id="HATCH_28_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FEFEFE" points="14.236,581.622 480.435,581.622 480.435,581.622 
+			383.96,678.097 383.96,678.097 14.236,678.097 14.236,678.097 14.236,581.622 		"/>
+	</g>
+	<g id="HATCH_29_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FEFEFE" points="14.236,485.146 383.96,485.146 383.96,485.146 
+			480.435,581.622 480.435,581.622 14.236,581.622 14.236,581.622 14.236,485.146 		"/>
+	</g>
+	<g id="HATCH_30_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#010101" points="508.774,581.622 919.651,581.622 919.651,581.622 
+			823.176,678.097 823.176,678.097 412.299,678.097 412.299,678.097 508.774,581.622 		"/>
+	</g>
+	<g id="HATCH_31_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FEFEFE" points="851.515,678.097 1303.544,678.097 1303.544,678.097 
+			1303.544,581.622 1303.544,581.622 947.99,581.622 947.99,581.622 851.515,678.097 		"/>
+	</g>
+	<g id="HATCH_32_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FEFEFE" points="851.515,485.146 1303.544,485.146 1303.544,485.146 
+			1303.544,581.622 1303.544,581.622 947.99,581.622 947.99,581.622 851.515,485.146 		"/>
+	</g>
+	<g id="HATCH_33_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FEFEFE" points="412.299,485.146 823.176,485.146 823.176,485.146 
+			919.651,581.622 919.651,581.622 508.774,581.622 508.774,581.622 412.299,485.146 		"/>
+	</g>
+	<g id="HATCH_34_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FEFEFE" points="14.236,817.081 480.435,817.081 480.435,817.081 
+			383.96,913.556 383.96,913.556 14.236,913.556 14.236,913.556 14.236,817.081 		"/>
+	</g>
+	<g id="HATCH_35_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FEFEFE" points="14.236,720.605 383.96,720.605 383.96,720.605 
+			480.435,817.081 480.435,817.081 14.236,817.081 14.236,817.081 14.236,720.605 		"/>
+	</g>
+	<g id="HATCH_36_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#010101" points="508.774,817.081 919.651,817.081 919.651,817.081 
+			823.176,913.556 823.176,913.556 412.299,913.556 412.299,913.556 508.774,817.081 		"/>
+	</g>
+	<g id="HATCH_37_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FEFEFE" points="851.515,913.556 1303.544,913.556 1303.544,913.556 
+			1303.544,817.081 1303.544,817.081 947.99,817.081 947.99,817.081 851.515,913.556 		"/>
+	</g>
+	<g id="HATCH_38_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FEFEFE" points="851.515,720.605 1303.544,720.605 1303.544,720.605 
+			1303.544,817.081 1303.544,817.081 947.99,817.081 947.99,817.081 851.515,720.605 		"/>
+	</g>
+	<g id="HATCH_39_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#010101" points="412.299,720.605 823.176,720.605 823.176,720.605 
+			919.651,817.081 919.651,817.081 508.774,817.081 508.774,817.081 412.299,720.605 		"/>
+	</g>
+	<g id="LWPOLYLINE_10_">
+		<polyline fill="none" stroke="#FEFEFE" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			14.24,956.06 383.965,956.06 480.438,1052.532 14.24,1052.532 14.24,956.06 		"/>
+	</g>
+	<g id="LWPOLYLINE_11_">
+		<polyline fill="none" stroke="#FEFEFE" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			14.24,1052.532 480.438,1052.532 383.965,1149.006 14.24,1149.006 14.24,1052.532 		"/>
+	</g>
+	<g id="LWPOLYLINE_12_">
+		<polyline fill="none" stroke="#FEFEFE" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			412.304,956.06 823.18,956.06 919.654,1052.532 508.777,1052.532 412.304,956.06 		"/>
+	</g>
+	<g id="LWPOLYLINE_13_">
+		<polyline fill="none" stroke="#010101" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			851.52,1149.006 1303.548,1149.006 1303.548,1052.532 947.993,1052.532 851.52,1149.006 		"/>
+	</g>
+	<g id="LWPOLYLINE_14_">
+		<polyline fill="none" stroke="#010101" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			851.52,956.06 1303.548,956.06 1303.548,1052.532 947.993,1052.532 851.52,956.06 		"/>
+	</g>
+	<g id="LWPOLYLINE_15_">
+		<polyline fill="none" stroke="#FEFEFE" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			508.777,1052.532 919.654,1052.532 823.18,1149.006 412.304,1149.006 508.777,1052.532 		"/>
+	</g>
+	<g id="LWPOLYLINE_16_">
+		<polygon fill="none" stroke="#010101" stroke-width="4.2509" stroke-linecap="round" stroke-linejoin="round" points="
+			919.654,1052.532 823.18,956.06 823.18,956.06 412.304,956.06 412.304,956.06 508.777,1052.532 508.777,1052.532 
+			412.304,1149.006 412.304,1149.006 823.18,1149.006 823.18,1149.006 919.654,1052.532 		"/>
+	</g>
+	<g id="LWPOLYLINE_17_">
+		<polyline fill="none" stroke="#FEFEFE" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			14.24,14.24 383.965,14.24 480.438,110.713 14.24,110.713 14.24,14.24 		"/>
+	</g>
+	<g id="LWPOLYLINE_18_">
+		<polyline fill="none" stroke="#010101" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			14.24,110.713 480.438,110.713 383.965,207.187 14.24,207.187 14.24,110.713 		"/>
+	</g>
+	<g id="LWPOLYLINE_19_">
+		<polyline fill="none" stroke="#FEFEFE" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			412.304,14.24 823.18,14.24 919.654,110.713 508.777,110.713 412.304,14.24 		"/>
+	</g>
+	<g id="LWPOLYLINE_20_">
+		<polyline fill="none" stroke="#FEFEFE" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			508.777,110.713 919.654,110.713 823.18,207.187 412.304,207.187 508.777,110.713 		"/>
+	</g>
+	<g id="LWPOLYLINE_21_">
+		<polyline fill="none" stroke="#FEFEFE" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			851.52,207.187 1303.548,207.187 1303.548,110.713 947.993,110.713 851.52,207.187 		"/>
+	</g>
+	<g id="LWPOLYLINE_22_">
+		<polyline fill="none" stroke="#FEFEFE" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			851.52,14.24 1303.548,14.24 1303.548,110.713 947.993,110.713 851.52,14.24 		"/>
+	</g>
+	<g id="LWPOLYLINE_23_">
+		<polygon fill="none" stroke="#010101" stroke-width="4.2509" stroke-linecap="round" stroke-linejoin="round" points="
+			14.24,14.24 383.965,14.24 383.965,14.24 480.438,110.713 480.438,110.713 383.965,207.187 383.965,207.187 14.24,207.187 
+			14.24,207.187 14.24,14.24 		"/>
+	</g>
+	<g id="LWPOLYLINE_24_">
+		<polygon fill="none" stroke="#010101" stroke-width="4.2509" stroke-linecap="round" stroke-linejoin="round" points="
+			919.654,110.713 823.18,14.24 823.18,14.24 412.304,14.24 412.304,14.24 508.777,110.713 508.777,110.713 412.304,207.187 
+			412.304,207.187 823.18,207.187 823.18,207.187 919.654,110.713 		"/>
+	</g>
+	<g id="LWPOLYLINE_25_">
+		<polygon fill="none" stroke="#010101" stroke-width="4.2509" stroke-linecap="round" stroke-linejoin="round" points="
+			1303.548,207.187 1303.548,14.24 1303.548,14.24 851.52,14.24 851.52,14.24 947.993,110.713 947.993,110.713 851.52,207.187 
+			851.52,207.187 1303.548,207.187 		"/>
+	</g>
+	<g id="LWPOLYLINE_26_">
+		<polygon fill="none" stroke="#010101" stroke-width="4.2509" stroke-linecap="round" stroke-linejoin="round" points="
+			14.24,956.06 383.965,956.06 383.965,956.06 480.438,1052.532 480.438,1052.532 383.965,1149.006 383.965,1149.006 
+			14.24,1149.006 14.24,1149.006 14.24,956.06 		"/>
+	</g>
+	<g id="LWPOLYLINE_27_">
+		<polygon fill="none" stroke="#010101" stroke-width="4.2509" stroke-linecap="round" stroke-linejoin="round" points="
+			1303.548,1149.006 1303.548,956.06 1303.548,956.06 851.52,956.06 851.52,956.06 947.993,1052.532 947.993,1052.532 
+			851.52,1149.006 851.52,1149.006 1303.548,1149.006 		"/>
+	</g>
+	<g id="LWPOLYLINE_28_">
+		<polyline fill="none" stroke="#010101" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			14.24,249.695 383.965,249.695 480.438,346.168 14.24,346.168 14.24,249.695 		"/>
+	</g>
+	<g id="LWPOLYLINE_29_">
+		<polyline fill="none" stroke="#010101" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			14.24,346.168 480.438,346.168 383.965,442.641 14.24,442.641 14.24,346.168 		"/>
+	</g>
+	<g id="LWPOLYLINE_30_">
+		<polyline fill="none" stroke="#FEFEFE" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			412.304,249.695 823.18,249.695 919.654,346.168 508.777,346.168 412.304,249.695 		"/>
+	</g>
+	<g id="LWPOLYLINE_31_">
+		<polyline fill="none" stroke="#FEFEFE" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			508.777,346.168 919.654,346.168 823.18,442.641 412.304,442.641 508.777,346.168 		"/>
+	</g>
+	<g id="LWPOLYLINE_32_">
+		<polyline fill="none" stroke="#FEFEFE" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			851.52,442.641 1303.548,442.641 1303.548,346.168 947.993,346.168 851.52,442.641 		"/>
+	</g>
+	<g id="LWPOLYLINE_33_">
+		<polyline fill="none" stroke="#FEFEFE" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			851.52,249.695 1303.548,249.695 1303.548,346.168 947.993,346.168 851.52,249.695 		"/>
+	</g>
+	<g id="LWPOLYLINE_34_">
+		<polygon fill="none" stroke="#010101" stroke-width="4.2509" stroke-linecap="round" stroke-linejoin="round" points="
+			14.24,249.695 383.965,249.695 383.965,249.695 480.438,346.168 480.438,346.168 383.965,442.641 383.965,442.641 14.24,442.641 
+			14.24,442.641 14.24,249.695 		"/>
+	</g>
+	<g id="LWPOLYLINE_35_">
+		<polygon fill="none" stroke="#010101" stroke-width="4.2509" stroke-linecap="round" stroke-linejoin="round" points="
+			919.654,346.168 823.18,249.695 823.18,249.695 412.304,249.695 412.304,249.695 508.777,346.168 508.777,346.168 
+			412.304,442.641 412.304,442.641 823.18,442.641 823.18,442.641 919.654,346.168 		"/>
+	</g>
+	<g id="LWPOLYLINE_36_">
+		<polyline fill="none" stroke="#FEFEFE" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			14.24,485.15 383.965,485.15 480.438,581.623 14.24,581.623 14.24,485.15 		"/>
+	</g>
+	<g id="LWPOLYLINE_37_">
+		<polyline fill="none" stroke="#FEFEFE" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			14.24,581.623 480.438,581.623 383.965,678.096 14.24,678.096 14.24,581.623 		"/>
+	</g>
+	<g id="LWPOLYLINE_38_">
+		<polyline fill="none" stroke="#FEFEFE" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			412.304,485.15 823.18,485.15 919.654,581.623 508.777,581.623 412.304,485.15 		"/>
+	</g>
+	<g id="LWPOLYLINE_39_">
+		<polyline fill="none" stroke="#FEFEFE" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			851.52,678.096 1303.548,678.096 1303.548,581.623 947.993,581.623 851.52,678.096 		"/>
+	</g>
+	<g id="LWPOLYLINE_40_">
+		<polyline fill="none" stroke="#FEFEFE" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			851.52,485.15 1303.548,485.15 1303.548,581.623 947.993,581.623 851.52,485.15 		"/>
+	</g>
+	<g id="LWPOLYLINE_41_">
+		<polyline fill="none" stroke="#010101" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			508.777,581.623 919.654,581.623 823.18,678.096 412.304,678.096 508.777,581.623 		"/>
+	</g>
+	<g id="LWPOLYLINE_42_">
+		<polygon fill="none" stroke="#010101" stroke-width="4.2509" stroke-linecap="round" stroke-linejoin="round" points="
+			919.654,581.623 823.18,485.15 823.18,485.15 412.304,485.15 412.304,485.15 508.777,581.623 508.777,581.623 412.304,678.096 
+			412.304,678.096 823.18,678.096 823.18,678.096 919.654,581.623 		"/>
+	</g>
+	<g id="LWPOLYLINE_43_">
+		<polygon fill="none" stroke="#010101" stroke-width="4.2509" stroke-linecap="round" stroke-linejoin="round" points="
+			14.24,485.15 383.965,485.15 383.965,485.15 480.438,581.623 480.438,581.623 383.965,678.096 383.965,678.096 14.24,678.096 
+			14.24,678.096 14.24,485.15 		"/>
+	</g>
+	<g id="LWPOLYLINE_44_">
+		<polygon fill="none" stroke="#010101" stroke-width="4.2509" stroke-linecap="round" stroke-linejoin="round" points="
+			1303.548,678.096 1303.548,485.15 1303.548,485.15 851.52,485.15 851.52,485.15 947.993,581.623 947.993,581.623 851.52,678.096 
+			851.52,678.096 1303.548,678.096 		"/>
+	</g>
+	<g id="LWPOLYLINE_45_">
+		<polyline fill="none" stroke="#FEFEFE" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			14.24,720.604 383.965,720.604 480.438,817.078 14.24,817.078 14.24,720.604 		"/>
+	</g>
+	<g id="LWPOLYLINE_46_">
+		<polyline fill="none" stroke="#FEFEFE" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			14.24,817.078 480.438,817.078 383.965,913.551 14.24,913.551 14.24,817.078 		"/>
+	</g>
+	<g id="LWPOLYLINE_47_">
+		<polyline fill="none" stroke="#010101" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			412.304,720.604 823.18,720.604 919.654,817.078 508.777,817.078 412.304,720.604 		"/>
+	</g>
+	<g id="LWPOLYLINE_48_">
+		<polyline fill="none" stroke="#FEFEFE" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			851.52,913.551 1303.548,913.551 1303.548,817.078 947.993,817.078 851.52,913.551 		"/>
+	</g>
+	<g id="LWPOLYLINE_49_">
+		<polyline fill="none" stroke="#FEFEFE" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			851.52,720.604 1303.548,720.604 1303.548,817.078 947.993,817.078 851.52,720.604 		"/>
+	</g>
+	<g id="LWPOLYLINE_50_">
+		<polyline fill="none" stroke="#010101" stroke-width="0.1417" stroke-linecap="round" stroke-linejoin="round" points="
+			508.777,817.078 919.654,817.078 823.18,913.551 412.304,913.551 508.777,817.078 		"/>
+	</g>
+	<g id="LWPOLYLINE_51_">
+		<polygon fill="none" stroke="#010101" stroke-width="4.2509" stroke-linecap="round" stroke-linejoin="round" points="
+			919.654,817.078 823.18,720.604 823.18,720.604 412.304,720.604 412.304,720.604 508.777,817.078 508.777,817.078 
+			412.304,913.551 412.304,913.551 823.18,913.551 823.18,913.551 919.654,817.078 		"/>
+	</g>
+	<g id="LWPOLYLINE_52_">
+		<polygon fill="none" stroke="#010101" stroke-width="4.2509" stroke-linecap="round" stroke-linejoin="round" points="
+			14.24,720.604 383.965,720.604 383.965,720.604 480.438,817.078 480.438,817.078 383.965,913.551 383.965,913.551 14.24,913.551 
+			14.24,913.551 14.24,720.604 		"/>
+	</g>
+	<g id="LWPOLYLINE_53_">
+		<polygon fill="none" stroke="#010101" stroke-width="4.2509" stroke-linecap="round" stroke-linejoin="round" points="
+			1303.548,913.551 1303.548,720.604 1303.548,720.604 851.52,720.604 851.52,720.604 947.993,817.078 947.993,817.078 
+			851.52,913.551 851.52,913.551 1303.548,913.551 		"/>
+	</g>
+	<g id="LWPOLYLINE_54_">
+		<polygon fill="none" stroke="#010101" stroke-width="4.2509" stroke-linecap="round" stroke-linejoin="round" points="
+			1303.548,442.641 1303.548,249.695 1303.548,249.695 851.52,249.695 851.52,249.695 947.993,346.168 947.993,346.168 
+			851.52,442.641 851.52,442.641 1303.548,442.641 		"/>
+	</g>
+	<g id="MTEXT">
+		<text transform="matrix(1 0 0 1 150.8267 173.1191)" fill="#FEFEFE" font-family="'Arial-Black'" font-size="41.6753">SCALE</text>
+	</g>
+	<g id="MTEXT_1_">
+		<text transform="matrix(1 0 0 1 1027.3003 100.7852)" fill="#010101" font-family="'ArialMT'" font-size="41.6753">PARALLEL</text>
+		<text transform="matrix(1 0 0 1 983.1343 148.499)" fill="#010101" font-family="'ArialMT'" font-size="41.6753">COORDINATES</text>
+	</g>
+	<g id="MTEXT_2_">
+		<text transform="matrix(1 0 0 1 114.2139 76.6465)" fill="#010101" font-family="'ArialMT'" font-size="41.6753">SORTTOOL</text>
+	</g>
+	<g id="MTEXT_3_">
+		<text transform="matrix(1 0 0 1 510.5103 173.1191)" fill="#010101" font-family="'ArialMT'" font-size="41.6753">PUBLIC STATUS</text>
+	</g>
+	<g id="MTEXT_4_">
+		<text transform="matrix(1 0 0 1 556.9722 76.6465)" fill="#010101" font-family="'ArialMT'" font-size="41.6753">SORTTOOL</text>
+	</g>
+	<g id="MTEXT_5_">
+		<text transform="matrix(1 0 0 1 158.5225 1114.9385)" fill="#010101" font-family="'ArialMT'" font-size="41.6753">SCALE</text>
+	</g>
+	<g id="MTEXT_6_">
+		<text transform="matrix(1 0 0 1 1001.8462 1042.6035)" fill="#FEFEFE" font-family="'Arial-Black'" font-size="41.6753">PARALLEL</text>
+		<text transform="matrix(1 0 0 1 950.2808 1090.3184)" fill="#FEFEFE" font-family="'Arial-Black'" font-size="41.6753">COORDINATES</text>
+	</g>
+	<g id="MTEXT_7_">
+		<text transform="matrix(1 0 0 1 114.2139 1018.4658)" fill="#010101" font-family="'ArialMT'" font-size="41.6753">SORTTOOL</text>
+	</g>
+	<g id="MTEXT_8_">
+		<text transform="matrix(1 0 0 1 510.5103 1114.9385)" fill="#010101" font-family="'ArialMT'" font-size="41.6753">PUBLIC STATUS</text>
+	</g>
+	<g id="MTEXT_9_">
+		<text transform="matrix(1 0 0 1 556.9722 1018.4658)" fill="#010101" font-family="'ArialMT'" font-size="41.6753">SORTTOOL</text>
+	</g>
+	<g id="MTEXT_10_">
+		<text transform="matrix(1 0 0 1 150.8267 408.5742)" fill="#FEFEFE" font-family="'Arial-Black'" font-size="41.6753">SCALE</text>
+	</g>
+	<g id="MTEXT_11_">
+		<text transform="matrix(1 0 0 1 1027.3003 336.2402)" fill="#010101" font-family="'ArialMT'" font-size="41.6753">PARALLEL</text>
+		<text transform="matrix(1 0 0 1 983.1343 383.9541)" fill="#010101" font-family="'ArialMT'" font-size="41.6753">COORDINATES</text>
+	</g>
+	<g id="MTEXT_12_">
+		<text transform="matrix(1 0 0 1 102.0771 312.1016)" fill="#FEFEFE" font-family="'Arial-Black'" font-size="41.6753">SORTTOOL</text>
+	</g>
+	<g id="MTEXT_13_">
+		<text transform="matrix(1 0 0 1 510.5103 408.5742)" fill="#010101" font-family="'ArialMT'" font-size="41.6753">PUBLIC STATUS</text>
+	</g>
+	<g id="MTEXT_14_">
+		<text transform="matrix(1 0 0 1 556.9722 312.1016)" fill="#010101" font-family="'ArialMT'" font-size="41.6753">SORTTOOL</text>
+	</g>
+	<g id="MTEXT_15_">
+		<text transform="matrix(1 0 0 1 158.5225 644.0293)" fill="#010101" font-family="'ArialMT'" font-size="41.6753">SCALE</text>
+	</g>
+	<g id="MTEXT_16_">
+		<text transform="matrix(1 0 0 1 1027.3003 571.6953)" fill="#010101" font-family="'ArialMT'" font-size="41.6753">PARALLEL</text>
+		<text transform="matrix(1 0 0 1 983.1343 619.4082)" fill="#010101" font-family="'ArialMT'" font-size="41.6753">COORDINATES</text>
+	</g>
+	<g id="MTEXT_17_">
+		<text transform="matrix(1 0 0 1 114.2139 547.5566)" fill="#010101" font-family="'ArialMT'" font-size="41.6753">SORTTOOL</text>
+	</g>
+	<g id="MTEXT_18_">
+		<text transform="matrix(1 0 0 1 487.0933 644.0293)" fill="#FEFEFE" font-family="'Arial-Black'" font-size="41.6753">PUBLIC STATUS</text>
+	</g>
+	<g id="MTEXT_19_">
+		<text transform="matrix(1 0 0 1 556.9722 547.5566)" fill="#010101" font-family="'ArialMT'" font-size="41.6753">SORTTOOL</text>
+	</g>
+	<g id="MTEXT_20_">
+		<text transform="matrix(1 0 0 1 158.5225 879.4844)" fill="#010101" font-family="'ArialMT'" font-size="41.6753">SCALE</text>
+	</g>
+	<g id="MTEXT_21_">
+		<text transform="matrix(1 0 0 1 1027.3003 807.1494)" fill="#010101" font-family="'ArialMT'" font-size="41.6753">PARALLEL</text>
+		<text transform="matrix(1 0 0 1 983.1343 854.8633)" fill="#010101" font-family="'ArialMT'" font-size="41.6753">COORDINATES</text>
+	</g>
+	<g id="MTEXT_22_">
+		<text transform="matrix(1 0 0 1 114.2139 783.0107)" fill="#010101" font-family="'ArialMT'" font-size="41.6753">SORTTOOL</text>
+	</g>
+	<g id="MTEXT_23_">
+		<text transform="matrix(1 0 0 1 480.0933 879.4844)" fill="#FEFEFE" font-family="'Arial-Black'" font-size="41.6753">PUBLIC STATUS</text>
+	</g>
+	<g id="MTEXT_24_">
+		<text transform="matrix(1 0 0 1 544.8354 783.0107)" fill="#FEFEFE" font-family="'Arial-Black'" font-size="41.6753">SORTTOOL</text>
+	</g>
+</g>
+</svg>
