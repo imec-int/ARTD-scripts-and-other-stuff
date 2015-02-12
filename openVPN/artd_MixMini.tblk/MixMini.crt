@@ -1,0 +1,72 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 3 (0x3)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=BE, ST=OV, L=Gent, O=MiX, OU=mix, CN=MiX CA/name=mix/emailAddress=streamstore@iminds.be
+        Validity
+            Not Before: Nov 18 09:06:56 2014 GMT
+            Not After : Nov 15 09:06:56 2024 GMT
+        Subject: C=BE, ST=OV, L=Gent, O=MiX, OU=mix, CN=MixMini/name=mix/emailAddress=streamstore@iminds.be
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:b3:55:fa:3c:55:bb:b9:67:d8:68:9d:74:64:f0:
+                    0f:56:04:98:9d:9b:b5:fe:93:fe:74:17:5c:83:b7:
+                    06:42:0b:19:22:92:ea:30:c1:38:2c:06:69:21:06:
+                    18:0a:d9:b2:fa:0f:b3:cf:64:7c:6a:34:13:9a:7e:
+                    b4:86:0a:ed:7f:c7:26:87:f4:01:c4:a8:d2:7a:82:
+                    8a:3d:7f:0c:ac:d9:82:2f:16:0e:b7:ba:af:29:0e:
+                    a1:09:8f:3f:0c:fa:4b:80:c5:ad:95:66:e9:65:a0:
+                    9d:b9:51:c7:04:25:8b:01:55:4c:96:a9:b7:35:f1:
+                    73:03:fa:24:4c:05:e7:89:d3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                00:DC:52:10:0B:2D:BB:5A:59:FB:91:5C:E5:A6:0C:62:D7:0D:EB:DD
+            X509v3 Authority Key Identifier: 
+                keyid:E6:B0:6C:B6:E3:9B:A7:D7:E8:A2:F9:D5:0B:A4:06:31:41:44:25:A3
+                DirName:/C=BE/ST=OV/L=Gent/O=MiX/OU=mix/CN=MiX CA/name=mix/emailAddress=streamstore@iminds.be
+                serial:BE:5E:DD:22:60:AE:55:B5
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha1WithRSAEncryption
+         0c:95:fb:b5:df:bc:b5:a9:b7:5c:15:71:25:cd:91:f3:c7:6d:
+         6b:d8:de:1b:7f:23:cd:81:76:8e:c2:00:ca:d0:67:99:b0:14:
+         7e:e1:31:ed:f5:92:99:a1:f5:c1:94:f4:62:9d:a5:ca:bd:9b:
+         b7:a9:8c:a1:84:76:be:1c:71:05:6e:d5:5c:6c:08:11:77:03:
+         98:50:3d:0b:89:c0:b8:e9:f9:77:c6:28:07:1c:e6:61:4a:06:
+         5c:32:0d:23:74:57:8d:0d:14:74:1c:4b:a5:05:74:6d:5d:9b:
+         e5:13:bc:ba:8d:6a:a6:c0:f1:ce:88:a4:fb:b4:ec:1e:93:21:
+         03:cf
+-----BEGIN CERTIFICATE-----
+MIID0DCCAzmgAwIBAgIBAzANBgkqhkiG9w0BAQUFADCBijELMAkGA1UEBhMCQkUx
+CzAJBgNVBAgTAk9WMQ0wCwYDVQQHEwRHZW50MQwwCgYDVQQKEwNNaVgxDDAKBgNV
+BAsTA21peDEPMA0GA1UEAxMGTWlYIENBMQwwCgYDVQQpEwNtaXgxJDAiBgkqhkiG
+9w0BCQEWFXN0cmVhbXN0b3JlQGltaW5kcy5iZTAeFw0xNDExMTgwOTA2NTZaFw0y
+NDExMTUwOTA2NTZaMIGLMQswCQYDVQQGEwJCRTELMAkGA1UECBMCT1YxDTALBgNV
+BAcTBEdlbnQxDDAKBgNVBAoTA01pWDEMMAoGA1UECxMDbWl4MRAwDgYDVQQDEwdN
+aXhNaW5pMQwwCgYDVQQpEwNtaXgxJDAiBgkqhkiG9w0BCQEWFXN0cmVhbXN0b3Jl
+QGltaW5kcy5iZTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAs1X6PFW7uWfY
+aJ10ZPAPVgSYnZu1/pP+dBdcg7cGQgsZIpLqMME4LAZpIQYYCtmy+g+zz2R8ajQT
+mn60hgrtf8cmh/QBxKjSeoKKPX8MrNmCLxYOt7qvKQ6hCY8/DPpLgMWtlWbpZaCd
+uVHHBCWLAVVMlqm3NfFzA/okTAXnidMCAwEAAaOCAUEwggE9MAkGA1UdEwQCMAAw
+LQYJYIZIAYb4QgENBCAWHkVhc3ktUlNBIEdlbmVyYXRlZCBDZXJ0aWZpY2F0ZTAd
+BgNVHQ4EFgQUANxSEAstu1pZ+5Fc5aYMYtcN690wgb8GA1UdIwSBtzCBtIAU5rBs
+tuObp9foovnVC6QGMUFEJaOhgZCkgY0wgYoxCzAJBgNVBAYTAkJFMQswCQYDVQQI
+EwJPVjENMAsGA1UEBxMER2VudDEMMAoGA1UEChMDTWlYMQwwCgYDVQQLEwNtaXgx
+DzANBgNVBAMTBk1pWCBDQTEMMAoGA1UEKRMDbWl4MSQwIgYJKoZIhvcNAQkBFhVz
+dHJlYW1zdG9yZUBpbWluZHMuYmWCCQC+Xt0iYK5VtTATBgNVHSUEDDAKBggrBgEF
+BQcDAjALBgNVHQ8EBAMCB4AwDQYJKoZIhvcNAQEFBQADgYEADJX7td+8tam3XBVx
+Jc2R88dta9jeG38jzYF2jsIAytBnmbAUfuEx7fWSmaH1wZT0Yp2lyr2bt6mMoYR2
+vhxxBW7VXGwIEXcDmFA9C4nAuOn5d8YoBxzmYUoGXDINI3RXjQ0UdBxLpQV0bV2b
+5RO8uo1qpsDxzoik+7TsHpMhA88=
+-----END CERTIFICATE-----

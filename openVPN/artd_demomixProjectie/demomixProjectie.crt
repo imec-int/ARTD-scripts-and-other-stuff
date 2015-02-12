@@ -1,0 +1,72 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 11 (0xb)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=BE, ST=OV, L=Gent, O=MiX, OU=mix, CN=MiX CA/name=mix/emailAddress=streamstore@iminds.be
+        Validity
+            Not Before: Nov 19 11:06:17 2014 GMT
+            Not After : Nov 16 11:06:17 2024 GMT
+        Subject: C=BE, ST=OV, L=Gent, O=MiX, OU=mix, CN=demomixProjectie/name=mix/emailAddress=streamstore@iminds.be
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:db:63:aa:30:ee:aa:e4:c4:76:97:e3:4e:a1:8d:
+                    be:6d:38:bb:ed:71:fe:39:8b:00:5b:cb:3e:51:ef:
+                    e0:f8:7f:4a:08:8b:ee:0b:ea:2a:5c:60:37:3c:52:
+                    79:18:4a:d0:8e:83:2b:12:7c:00:b8:0f:cd:ae:1d:
+                    96:a8:87:e4:63:f4:44:65:d5:22:9a:79:8c:9e:ee:
+                    47:50:c3:95:ee:d4:79:0c:52:04:0f:b0:6a:a5:0d:
+                    1d:dd:1c:0d:a1:14:d0:7a:22:99:85:f0:80:a9:33:
+                    a9:1f:a9:45:1b:4e:7f:a2:ec:49:e7:37:51:87:05:
+                    b6:d2:72:b2:6f:56:78:ee:dd
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                11:DB:34:10:98:2A:A8:D5:85:BF:AD:82:63:2A:2C:58:82:34:4F:5C
+            X509v3 Authority Key Identifier: 
+                keyid:E6:B0:6C:B6:E3:9B:A7:D7:E8:A2:F9:D5:0B:A4:06:31:41:44:25:A3
+                DirName:/C=BE/ST=OV/L=Gent/O=MiX/OU=mix/CN=MiX CA/name=mix/emailAddress=streamstore@iminds.be
+                serial:BE:5E:DD:22:60:AE:55:B5
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha1WithRSAEncryption
+         42:78:61:1a:1d:52:6b:1f:c2:26:a8:28:56:a3:1f:d0:de:1c:
+         01:33:90:d9:9f:e4:02:9e:30:3b:8f:db:07:c2:18:b8:54:59:
+         2f:9b:ec:d5:e4:ec:07:ba:44:3d:29:c7:63:67:4d:f7:eb:00:
+         09:0f:80:25:3d:68:54:42:ec:46:92:c6:68:9f:f4:e0:a4:42:
+         75:c1:2e:08:23:8d:61:61:f1:33:aa:f8:e1:da:be:61:02:bf:
+         fc:72:c8:d7:fd:ae:c1:9d:60:d1:df:59:2a:f7:77:cf:7a:90:
+         76:c3:a4:8a:37:03:58:1f:b4:ed:a4:18:12:45:63:9d:b0:f0:
+         32:66
+-----BEGIN CERTIFICATE-----
+MIID2TCCA0KgAwIBAgIBCzANBgkqhkiG9w0BAQUFADCBijELMAkGA1UEBhMCQkUx
+CzAJBgNVBAgTAk9WMQ0wCwYDVQQHEwRHZW50MQwwCgYDVQQKEwNNaVgxDDAKBgNV
+BAsTA21peDEPMA0GA1UEAxMGTWlYIENBMQwwCgYDVQQpEwNtaXgxJDAiBgkqhkiG
+9w0BCQEWFXN0cmVhbXN0b3JlQGltaW5kcy5iZTAeFw0xNDExMTkxMTA2MTdaFw0y
+NDExMTYxMTA2MTdaMIGUMQswCQYDVQQGEwJCRTELMAkGA1UECBMCT1YxDTALBgNV
+BAcTBEdlbnQxDDAKBgNVBAoTA01pWDEMMAoGA1UECxMDbWl4MRkwFwYDVQQDExBk
+ZW1vbWl4UHJvamVjdGllMQwwCgYDVQQpEwNtaXgxJDAiBgkqhkiG9w0BCQEWFXN0
+cmVhbXN0b3JlQGltaW5kcy5iZTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA
+22OqMO6q5MR2l+NOoY2+bTi77XH+OYsAW8s+Ue/g+H9KCIvuC+oqXGA3PFJ5GErQ
+joMrEnwAuA/Nrh2WqIfkY/REZdUimnmMnu5HUMOV7tR5DFIED7BqpQ0d3RwNoRTQ
+eiKZhfCAqTOpH6lFG05/ouxJ5zdRhwW20nKyb1Z47t0CAwEAAaOCAUEwggE9MAkG
+A1UdEwQCMAAwLQYJYIZIAYb4QgENBCAWHkVhc3ktUlNBIEdlbmVyYXRlZCBDZXJ0
+aWZpY2F0ZTAdBgNVHQ4EFgQUEds0EJgqqNWFv62CYyosWII0T1wwgb8GA1UdIwSB
+tzCBtIAU5rBstuObp9foovnVC6QGMUFEJaOhgZCkgY0wgYoxCzAJBgNVBAYTAkJF
+MQswCQYDVQQIEwJPVjENMAsGA1UEBxMER2VudDEMMAoGA1UEChMDTWlYMQwwCgYD
+VQQLEwNtaXgxDzANBgNVBAMTBk1pWCBDQTEMMAoGA1UEKRMDbWl4MSQwIgYJKoZI
+hvcNAQkBFhVzdHJlYW1zdG9yZUBpbWluZHMuYmWCCQC+Xt0iYK5VtTATBgNVHSUE
+DDAKBggrBgEFBQcDAjALBgNVHQ8EBAMCB4AwDQYJKoZIhvcNAQEFBQADgYEAQnhh
+Gh1Sax/CJqgoVqMf0N4cATOQ2Z/kAp4wO4/bB8IYuFRZL5vs1eTsB7pEPSnHY2dN
+9+sACQ+AJT1oVELsRpLGaJ/04KRCdcEuCCONYWHxM6r44dq+YQK//HLI1/2uwZ1g
+0d9ZKvd3z3qQdsOkijcDWB+07aQYEkVjnbDwMmY=
+-----END CERTIFICATE-----
